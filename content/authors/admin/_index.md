@@ -3,11 +3,11 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chien
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shiung 
+last_name: 1
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of AI
 
 # Organizations/Affiliations to show in About widget
 organizations:
