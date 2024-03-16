@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Seychik
+title: Тимофей Мухин
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -50,7 +50,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 35
+        percent: 30
         icon: python
         icon_pack: fab
       - name: Linux
@@ -82,6 +82,11 @@ skills:
         percent: 50
         icon: camera-retro
         icon_pack: fas
+      - name: Transport
+        description: ''
+        percent: 10
+        icon: train
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,9 +101,6 @@ social:
     link: https://t.me/@sey_chik
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Seychik23
